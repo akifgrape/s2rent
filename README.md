@@ -22,6 +22,13 @@ Track your ride in real-time, so you always know the exact location of your vehi
 ## Secure Payments:
 Our secure payment gateway allows you to complete transactions with ease. Choose from various payment methods for a hassle-free experience.
 
+## Screenshots
+
+<div style="display: flex;">
+    <img src="https://github.com/akifgrape/s2rent/blob/main/assets/0x0.png" alt="Screenshot of location data tab" width="300"/>
+    <img src="https://github.com/akifgrape/s2rent/blob/main/assets/0x1.png" alt="Screenshot of location data tab" width="580"/>
+</div>
+
 ## Installation
 
 - ### [Node's `npm`](https://nodejs.org/en/download/)
