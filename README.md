@@ -25,8 +25,8 @@ Our secure payment gateway allows you to complete transactions with ease. Choose
 ## Screenshots
 
 <div style="display: flex;">
-    <img src="https://github.com/akifgrape/s2rent/blob/main/assets/0x0.png" alt="Screenshot of location data tab" width="300"/>
-    <img src="https://github.com/akifgrape/s2rent/blob/main/assets/0x1.png" alt="Screenshot of location data tab" width="580"/>
+    <img src="https://github.com/akifgrape/s2rent/blob/main/assets/0x0.png" alt="Screenshot of location data tab" width="225"/>
+    <img src="https://github.com/akifgrape/s2rent/blob/main/assets/0x1.png" alt="Screenshot of location data tab" width="435"/>
 </div>
 
 ## Installation
