@@ -57,4 +57,4 @@ Enable the following API's and :
 ## API Key
 Include your `Maps API Key` in your .env file
 
-## Creator and developer [Akif Garpe](https://github.com/akifgrape) 🔥
+## Creator and developer [Akif Grape](https://github.com/akifgrape) 🔥
